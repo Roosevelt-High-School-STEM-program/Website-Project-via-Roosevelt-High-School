@@ -1,8 +1,26 @@
-# Website-Project-via-Roosevelt-High-School
-Project to create a working skeleton of a website for Wayne H. Inouye. The website is created using Vue, and quasar components.  
+# website-project (website-project-via-roosevelt-high-school)
 
-IDE used: Webstorm  
+A website skeleton for Wayne Inouye
 
-Assigned to
-Brian Dang: bridan20@roosevelths.k12.hi.us
-Baovy Tran: baotra20@roosevelths.k12.hi.us
+## Install the dependencies
+```bash
+yarn
+```
+
+### Start the app in development mode (hot-code reloading, error reporting, etc.)
+```bash
+quasar dev
+```
+
+### Lint the files
+```bash
+yarn run lint
+```
+
+### Build the app for production
+```bash
+quasar build
+```
+
+### Customize the configuration
+See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
